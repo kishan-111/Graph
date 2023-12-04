@@ -1,0 +1,17 @@
+prims -> shortest path
+
+d
+->shortest path algo from source to destination
+->only for positve
+->shortest minimize
+
+
+prims
+->find mst
+->overall minimize
+
+
+     0
+   4/   \5
+  1 --- 2   
+     2         
